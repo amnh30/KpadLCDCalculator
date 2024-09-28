@@ -1,5 +1,3 @@
-Here's a colorful and professional README file for your project, complete with emojis to make it engaging!
-
 ---
 
 # 📟 AVR Calculator Project
@@ -102,5 +100,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Happy coding! 🎉✨
 
 --- 
-
-Feel free to customize any part of the README to better fit your project or add additional sections if needed!
