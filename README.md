@@ -89,13 +89,8 @@ Feel free to contribute to this project! Create a pull request for any improveme
 
 ## 📞 Contact
 
-For questions or suggestions, please reach out via email at [your_email@example.com](mailto:your_email@example.com).
+For questions or suggestions, please reach out via email at [amn951753@gmail.com](mailto:yamn951753@gmail.com).
 
-## 🎉 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 Happy coding! 🎉✨
 
